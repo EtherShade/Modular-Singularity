@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>MSA2</name>
+      <longname>Modularity Singularity alphatest 2</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Mathematician</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 1 Tertiary Point.</text>
+    </card>
+    <card>
+      <name>Quanta Burst</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field: Gain 1 Quanta FL.</text>
+    </card>
+    <card>
+      <name>Lux Burst</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field: Gain 1 Lux FL.</text>
+    </card>
+    <card>
+      <name>Lux Ideation</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Tap an untapped Concept in your field: Gain 1 Lux FL. Activate stacklessly.</text>
+    </card>
+    <card>
+      <name>Quanta Ideation</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Tap an untapped Concept in your field: Gain 1 Quanta FL. Activate stacklessly.</text>
+    </card>
+    <card>
+      <name>Hatchling Light Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep 4 phase: Sacrifice this unless you sacrifice a Lux permanent.
+Tap this, Sacrifice a Lux permanent: Gain 3 points of a random type.</text>
+    </card>
+    <card>
+      <name>Young Light Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Sacrifice a Lux permanent: You gain 3 points of a random type.</text>
+    </card>
+    <card>
+      <name>Adult Light Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Sacrifice a Lux permanent: Gain 4 points of a chosen type.</text>
+    </card>
+    <card>
+      <name>Dragon Gem</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Material - Gem</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: Gain 2 FL in any combination of attributes among the attributes of Dragons in your field.</text>
+    </card>
+    <card>
+      <name>Dragon Hourglass</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Material - Hourglass</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: Add 1 FL of an attribute among the attributes of Dragons in your field.</text>
+    </card>
+    <card>
+      <name>Ultra Gem</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Material - Gem</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Have 3 or more Gems in your field: Gain 2 FL of any attribute.</text>
+    </card>
+    <card>
+      <name>Lux Rite</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field, Sacrifice an Actor: Gain 3 Lux FL.</text>
+    </card>
+    <card>
+      <name>Quanta Rite</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field, Sacrifice an Actor: Gain 3 Quanta FL.</text>
+    </card>
+    <card>
+      <name>Equation</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Gain 3 Tertiary Points.</text>
+    </card>
+    <card>
+      <name>Lux Bauble</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Material - Trinket</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this leaves your field: Draw a card.</text>
+    </card>
+    <card>
+      <name>Quanta Bauble</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Material - Trinket</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this leaves your field: Draw a card.</text>
+    </card>
+    <card>
+      <name>Gambler</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: Gain 1 Secondary Point.
+When you sacrifice this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Lux Looter</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 1 Primary Point.
+When you sacrifice this or this is destroyed: Create a Lux Crystal token. (It’s a Lux Material Crystal with “Tap this, Sacrifice this: Gain 1 Lux FL.”)</text>
+    </card>
+    <card>
+      <name>Quanta Looter</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 1 Primary Point.
+When you sacrifice this or this is destroyed: Create a Quanta Crystal token. (It’s a Quanta Material Crystal with “Tap this, Sacrifice this: Gain 1 Quanta FL.”)</text>
+    </card>
+    <card>
+      <name>Hatchling Logic Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep 4 phase: Sacrifice this unless you sacrifice a Quanta permanent.
+Tap this, Sacrifice a Quanta permanent: Gain 3 points of a random type.</text>
+    </card>
+    <card>
+      <name>Adult Logic Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Sacrifice a Quanta permanent: Gain 4 points of a chosen type.</text>
+    </card>
+    <card>
+      <name>Young Logic Dragon</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor - Dragon</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Sacrifice a Quanta permanent: You gain 3 points of a random type.</text>
+    </card>
+    <card>
+      <name>Prismatic Ray</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field: Gain 2 FL in any combination of attributes. Draw a card.</text>
+    </card>
+    <card>
+      <name>Prismatic Glow</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive, Fleeting
+When this enters your field: Gain 1 FL of any attribute. Draw a card.</text>
+    </card>
+    <card>
+      <name>Orb of Planning</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Material</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards you play cost 1 of any attribute of FL less to play.</text>
+    </card>
+    <card>
+      <name>Prevent</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Cancel target ability stack object.</text>
+    </card>
+    <card>
+      <name>Vanish</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Put target card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Study</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Light Acolyte</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 1 Secondary Point.</text>
+    </card>
+    <card>
+      <name>Shining Decree</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Target opponent sacrifices a permanent.</text>
+    </card>
+    <card>
+      <name>Outthink</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Destroy target Concept.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
