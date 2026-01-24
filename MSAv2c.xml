@@ -293,7 +293,8 @@ When this enters your field: Gain 1 Tertiary Point.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>1 FL, Tap this: Gain one FL of any type.</text>
+      <text>When this enters your field: Draw a card.
+1 FL, Tap this: Gain one FL of any type.</text>
     </card>
     <card>
       <name>Blinding Light</name>
@@ -351,6 +352,101 @@ When this enters your field: Put target card stack object into its owner’s dis
       <tablerow>1</tablerow>
       <text>Reactive, Fleeting
 When this enters your field: Put target card stack object into its owner’s discard pile. You gain 1 Tertiary Point.</text>
+    </card>
+    <card>
+      <name>Consumable Converter</name>
+      <set rarity="common">MSA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tool</type>
+        <maintype>Tool</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1 FL, Tap this, Sacrifice this: Gain one FL of any type.
+When this leaves your field: Draw a card.</text>
+    </card>
+    <card>
+      <name>Lux Bauble</name>
+      <set rarity="common">MSA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Trinket</type>
+        <maintype>Trinket</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This enters your field tapped.
+Tap this, Sacrifice this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Quanta Bauble</name>
+      <set rarity="common">MSA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Trinket</type>
+        <maintype>Trinket</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This enters your field tapped.
+Tap this, Sacrifice this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Laser</name>
+      <set rarity="common">MSA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Tool</type>
+        <maintype>Tool</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fleeting
+When this enters your field: Destroy two target permanents that share an attribute. You gain 1 Primary Point.</text>
+    </card>
+    <card>
+      <name>Calculate</name>
+      <set rarity="common">MSA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Effort</type>
+        <maintype>Effort</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this, Tap another permanent you control: Put two charge counters on this.
+Tap this, Sacrifice this: Gain Secondary Points equal to the number of charge counters on this.</text>
     </card>
 
     <!-->Tokens</-->
