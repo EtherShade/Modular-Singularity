@@ -487,7 +487,7 @@ When this enters your field: Gain 1 FL of any attribute. Draw a card.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Fleeting
+      <text>Reactive, Fleeting
 When this enters your field: Cancel target ability stack object.</text>
     </card>
     <card>
@@ -506,7 +506,7 @@ When this enters your field: Cancel target ability stack object.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Fleeting
+      <text>Reactive, Fleeting
 When this enters your field: Put target card stack object into its owner’s discard pile.</text>
     </card>
     <card>
@@ -583,6 +583,83 @@ When this enters your field: Target opponent sacrifices a permanent.</text>
       <tablerow>1</tablerow>
       <text>Fleeting
 When this enters your field: Destroy target Concept.</text>
+    </card>
+    <card>
+      <name>Research</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Null Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tempo, Fleeting
+When this enters your field: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Lux Generator</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Material - Generator</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tempo
+Tap this: Gain 1 Lux FL.</text>
+    </card>
+    <card>
+      <name>Quanta Generator</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Material - Generator</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tempo
+Tap this: Gain 1 Quanta FL.</text>
+    </card>
+    <card>
+      <name>Shining Sledgehammer</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Material</type>
+        <maintype>Material</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tempo
+This enters your field tapped.
+Tap this, Sacrifice this: Destroy target Material.</text>
     </card>
 
     <!-->Tokens</-->
