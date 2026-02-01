@@ -118,7 +118,7 @@ When this enters your field: Gain 1 Lux FL.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end phase: Sacrifice this unless you sacrifice a Lux permanent.
-Tap this, Sacrifice a Lux permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+Tap this, Sacrifice a Lux permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Young Light Dragon</name>
@@ -136,7 +136,7 @@ Tap this, Sacrifice a Lux permanent: Gain X points of a random type, where X is 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Lux permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Lux permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Adult Light Dragon</name>
@@ -154,7 +154,7 @@ Tap this, Sacrifice a Lux permanent: Gain X points of a random type, where X is 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Lux permanent: Gain X points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Lux permanent: Gain X Points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Dragon Gem</name>
@@ -376,7 +376,7 @@ When you sacrifice this or this is destroyed: Create a Quanta Crystal token. (It
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end phase: Sacrifice this unless you sacrifice a Quanta permanent.
-Tap this, Sacrifice a Quanta permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+Tap this, Sacrifice a Quanta permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Adult Logic Dragon</name>
@@ -394,7 +394,7 @@ Tap this, Sacrifice a Quanta permanent: Gain X points of a random type, where X 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Quanta permanent: Gain X points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Quanta permanent: Gain X Points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Young Logic Dragon</name>
@@ -412,7 +412,7 @@ Tap this, Sacrifice a Quanta permanent: Gain X points of a random type, where X 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Quanta permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Quanta permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Prismatic Ray</name>
@@ -596,7 +596,7 @@ When this enters your field: Put target card stack object into its owner’s dis
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 When this enters your field: Draw two cards.</text>
     </card>
     <card>
@@ -615,7 +615,7 @@ When this enters your field: Draw two cards.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this: Gain 1 Lux FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -634,7 +634,7 @@ Tap this: Gain 1 Lux FL. This ability can’t be reacted to.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this: Gain 1 Quanta FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -653,7 +653,7 @@ Tap this: Gain 1 Quanta FL. This ability can’t be reacted to.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 This enters your field tapped.
 Tap this, Sacrifice this: Destroy target Material.</text>
     </card>
@@ -673,7 +673,7 @@ Tap this, Sacrifice this: Destroy target Material.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Discard a card: Gain 1 Quanta FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -692,7 +692,7 @@ Tap this, Discard a card: Gain 1 Quanta FL. This ability can’t be reacted to.<
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Discard a card: Gain 1 Lux FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -729,8 +729,8 @@ Tap this, Discard a card: Gain 1 Lux FL. This ability can’t be reacted to.</te
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your extra deck that have precursor.)
-Tempo (You may only play one card with tempo per turn.)
+      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your sidedeck that have precursor.)
+Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Remove an endurance counter from this: Gain 1 Lux FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -749,8 +749,8 @@ Tap this, Remove an endurance counter from this: Gain 1 Lux FL. This ability can
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your extra deck that have precursor.)
-Tempo (You may only play one card with tempo per turn.)
+      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your sidedeck that have precursor.)
+Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Remove an endurance counter from this: Gain 1 Quanta FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -769,8 +769,8 @@ Tap this, Remove an endurance counter from this: Gain 1 Quanta FL. This ability 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your extra deck that have precursor.)
-Tempo (You may only play one card with tempo per turn.)
+      <text>Precursor (While drawing cards while mulliganing, you may replace any number of those draws with cards from your sidedeck that have precursor.)
+Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Remove an endurance counter from this: Gain 1 Nox FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -789,7 +789,7 @@ Tap this, Remove an endurance counter from this: Gain 1 Nox FL. This ability can
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this, Discard a card: Gain 1 Nox FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -808,7 +808,7 @@ Tap this, Discard a card: Gain 1 Nox FL. This ability can’t be reacted to.</te
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tempo (You may only play one card with tempo per turn.)
+      <text>Dedicated (You may only play one card with dedicated per turn.)
 Tap this: Gain 1 Nox FL. This ability can’t be reacted to.</text>
     </card>
     <card>
@@ -920,7 +920,7 @@ When you sacrifice this or this is destroyed: Create a Nox Crystal token. (It’
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Nox permanent: Gain X points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Nox permanent: Gain X Points of a chosen type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Hatchling Darkness Dragon</name>
@@ -939,7 +939,7 @@ When you sacrifice this or this is destroyed: Create a Nox Crystal token. (It’
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end phase: Sacrifice this unless you sacrifice a Nox permanent.
-Tap this, Sacrifice a Nox permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+Tap this, Sacrifice a Nox permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Young Darkness Dragon</name>
@@ -957,7 +957,7 @@ Tap this, Sacrifice a Nox permanent: Gain X points of a random type, where X is 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this, Sacrifice a Nox permanent: Gain X points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
+      <text>Tap this, Sacrifice a Nox permanent: Gain X Points of a random type, where X is the number of endurance counters on the sacrificed permanent.</text>
     </card>
     <card>
       <name>Darkness Acolyte</name>
@@ -976,6 +976,63 @@ Tap this, Sacrifice a Nox permanent: Gain X points of a random type, where X is 
       </prop>
       <tablerow>1</tablerow>
       <text>Tap this: You gain 1 Secondary Point.</text>
+    </card>
+    <card>
+      <name>Avatar of Luxen</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
+Discard this, Use your tempo play: Create a Lux Crystal token. (It’s a Lux Material Crystal with “Tap this, Sacrifice this: Gain 1 Lux FL.”)</text>
+    </card>
+    <card>
+      <name>Avatar of Noxen</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Nox Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
+Discard this, Use your tempo play: Create a Nox Crystal token. (It’s a Nox Material Crystal with “Tap this, Sacrifice this: Gain 1 Nox FL.”)</text>
+    </card>
+    <card>
+      <name>Avatar of Quantaen</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Actor</type>
+        <maintype>Actor</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
+Discard this, Use your tempo play: Create a Quanta Crystal token. (It’s a Quanta Material Crystal with “Tap this, Sacrifice this: Gain 1 Quanta FL.”)</text>
     </card>
 
     <!-->Tokens</-->

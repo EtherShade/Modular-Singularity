@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Jan 25 16:47:31 2026</lastLoadedTimestamp>
-    <deckname>MSA2 test deck 2</deckname>
+    <lastLoadedTimestamp>Sat Jan 31 19:30:41 2026</lastLoadedTimestamp>
+    <deckname>MSA2 test deck 3</deckname>
     <bannerCard providerId=""></bannerCard>
     <comments></comments>
     <tags/>
@@ -18,13 +18,17 @@
         <card number="2" name="Shining Sledgehammer" setShortName="MSA2"/>
         <card number="2" name="Lux Conjuration Generator" setShortName="MSA2"/>
         <card number="2" name="Lux Mindfuel Generator" setShortName="MSA2"/>
-        <card number="2" name="Lux Implosion Generator" setShortName="MSA2"/>
         <card number="2" name="Quanta Conjuration Generator" setShortName="MSA2"/>
         <card number="2" name="Quanta Mindfuel Generator" setShortName="MSA2"/>
-        <card number="2" name="Quanta Implosion Generator" setShortName="MSA2"/>
         <card number="2" name="Hatchling Light Dragon" setShortName="MSA2"/>
         <card number="2" name="Young Logic Dragon" setShortName="MSA2"/>
         <card number="2" name="Adult Light Dragon" setShortName="MSA2"/>
         <card number="2" name="Prevent" setShortName="MSA2"/>
+        <card number="2" name="Research" setShortName="MSA2"/>
+        <card number="2" name="Study" setShortName="MSA2"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Quanta Implosion Generator" setShortName="MSA2"/>
+        <card number="2" name="Lux Implosion Generator" setShortName="MSA2"/>
     </zone>
 </cockatrice_deck>
