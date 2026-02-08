@@ -25,7 +25,7 @@
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this: You gain 1 Tertiary Point.</text>
+      <text>Tap this, Sacrifice this: You gain 1 Tertiary Point.</text>
     </card>
     <card>
       <name>Quanta Burst</name>
@@ -282,7 +282,8 @@ When this enters your field, Sacrifice an Actor: Gain 3 Quanta FL.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this leaves your field: Draw a card.</text>
+      <text>When this leaves your field: Draw a card.
+Discard this, Use your dedicated play: Create a Lux Crystal token. (You may only play one card with dedicated per turn. A Lux Crystal token is a Lux Material Crystal with “Tap this, Sacrifice this: Gain 1 Lux FL.”)</text>
     </card>
     <card>
       <name>Quanta Bauble</name>
@@ -300,7 +301,8 @@ When this enters your field, Sacrifice an Actor: Gain 3 Quanta FL.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this leaves your field: Draw a card.</text>
+      <text>When this leaves your field: Draw a card.
+Discard this, Use your dedicated play: Create a Quanta Crystal token. (You may only play one card with dedicated per turn. A Quanta Crystal token is a Quanta Material Crystal with “Tap this, Sacrifice this: Gain 1 Quanta FL.”)</text>
     </card>
     <card>
       <name>Gambler</name>
@@ -318,8 +320,8 @@ When this enters your field, Sacrifice an Actor: Gain 3 Quanta FL.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this: Gain 1 Secondary Point.
-When you sacrifice this: Draw a card.</text>
+      <text>Tap this, Sacrifice this: Gain 1 Secondary Point.
+When you sacrifice this, if it wasn’t as a cost of one of this card’s abilities: Draw a card.</text>
     </card>
     <card>
       <name>Lux Looter</name>
@@ -542,7 +544,7 @@ When this enters your field: Put target card stack object into its owner’s dis
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this: You gain 1 Secondary Point.</text>
+      <text>Tap this, Sacrifice this: You gain 1 Secondary Point.</text>
     </card>
     <card>
       <name>Shining Decree</name>
@@ -827,7 +829,8 @@ Tap this: Gain 1 Nox FL. This ability can’t be reacted to.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this leaves your field: Draw a card.</text>
+      <text>When this leaves your field: Draw a card.
+Discard this, Use your dedicated play: Create a Nox Crystal token. (You may only play one card with dedicated per turn. A Nox Crystal token is a Nox Material Crystal with “Tap this, Sacrifice this: Gain 1 Nox FL.”)</text>
     </card>
     <card>
       <name>Nox Burst</name>
@@ -975,7 +978,7 @@ Tap this, Sacrifice a Nox permanent: Gain X Points of a random type, where X is 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap this: You gain 1 Secondary Point.</text>
+      <text>Tap this, Sacrifice this: You gain 1 Secondary Point.</text>
     </card>
     <card>
       <name>Avatar of Luxen</name>
@@ -994,7 +997,7 @@ Tap this, Sacrifice a Nox permanent: Gain X Points of a random type, where X is 
       </prop>
       <tablerow>1</tablerow>
       <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
-Discard this, Use your tempo play: Create a Lux Crystal token. (It’s a Lux Material Crystal with “Tap this, Sacrifice this: Gain 1 Lux FL.”)</text>
+Discard this, Use your dedicated play: Create a Lux Crystal token. (You may only play one card with dedicated per turn. A Lux Crystal token is a Lux Material Crystal with “Tap this, Sacrifice this: Gain 1 Lux FL.”)</text>
     </card>
     <card>
       <name>Avatar of Noxen</name>
@@ -1013,7 +1016,7 @@ Discard this, Use your tempo play: Create a Lux Crystal token. (It’s a Lux Mat
       </prop>
       <tablerow>1</tablerow>
       <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
-Discard this, Use your tempo play: Create a Nox Crystal token. (It’s a Nox Material Crystal with “Tap this, Sacrifice this: Gain 1 Nox FL.”)</text>
+Discard this, Use your dedicated play: Create a Nox Crystal token. (You may only play one card with dedicated per turn. A Nox Crystal token is a Nox Material Crystal with “Tap this, Sacrifice this: Gain 1 Nox FL.”)</text>
     </card>
     <card>
       <name>Avatar of Quantaen</name>
@@ -1032,7 +1035,64 @@ Discard this, Use your tempo play: Create a Nox Crystal token. (It’s a Nox Mat
       </prop>
       <tablerow>1</tablerow>
       <text>Tap this: You gain 3 Points of each type. Each opponent loses 1 Point of each type.
-Discard this, Use your tempo play: Create a Quanta Crystal token. (It’s a Quanta Material Crystal with “Tap this, Sacrifice this: Gain 1 Quanta FL.”)</text>
+Discard this, Use your dedicated play: Create a Quanta Crystal token. (You may only play one card with dedicated per turn. A Quanta Crystal token is a Quanta Material Crystal with “Tap this, Sacrifice this: Gain 1 Quanta FL.”)</text>
+    </card>
+    <card>
+      <name>Lux Offering</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Lux Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated at reactive speed.)
+When this enters your field, Sacrifice a Material: Gain 3 Lux FL.</text>
+    </card>
+    <card>
+      <name>Nox Offering</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Nox Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated at reactive speed.)
+When this enters your field, Sacrifice a Material: Gain 3 Nox FL.</text>
+    </card>
+    <card>
+      <name>Quanta Offering</name>
+      <set rarity="common">MSA2</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quanta Concept</type>
+        <maintype>Concept</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated at reactive speed.)
+When this enters your field, Sacrifice a Material: Gain 3 Quanta FL.</text>
     </card>
 
     <!-->Tokens</-->
